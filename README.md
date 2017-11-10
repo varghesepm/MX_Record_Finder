@@ -1,2 +1,4 @@
-# To find the MX record of a domain
+# MXfinder.py
+
+To find the MX record of a domain
 
