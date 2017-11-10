@@ -1,1 +1,2 @@
-# MX_Record_Finder
+# To find the MX record of a domain
+
